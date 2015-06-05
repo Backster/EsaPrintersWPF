@@ -67,7 +67,7 @@ namespace EsaPrintersWPF
         {
             if (lbPrinters.SelectedIndex > 0)
             {
-                MessageBox.Show(lbPrinters.());
+                MessageBox.Show(lbPrinters);
             }
         }
 
