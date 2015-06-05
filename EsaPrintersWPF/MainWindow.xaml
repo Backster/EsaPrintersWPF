@@ -1,0 +1,15 @@
+﻿<Window x:Class="EsaPrintersWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="499" Width="973">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="197*"/>
+            <ColumnDefinition Width="621*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="printerList" HorizontalAlignment="Left" Margin="68,47,0,0" VerticalAlignment="Top" Width="151" SelectionChanged="printerList_SelectionChanged"/>
+        <ListBox x:Name="lbPrinters" HorizontalAlignment="Left" Height="397" Margin="10,47,0,0" VerticalAlignment="Top" Width="713" Grid.Column="1"/>
+        <Button x:Name="getPrnBtn" Content="Get Printer" HorizontalAlignment="Left" Margin="99,198,0,0" VerticalAlignment="Top" Width="93" Click="getPrnBtn_Click"/>
+
+    </Grid>
+</Window>

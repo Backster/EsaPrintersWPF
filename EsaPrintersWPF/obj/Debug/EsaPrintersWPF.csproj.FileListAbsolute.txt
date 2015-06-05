@@ -1,0 +1,13 @@
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\bin\Debug\EsaPrintersWPF.exe.config
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF.csprojResolveAssemblyReference.cache
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\MainWindow.baml
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\App.g.cs
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF_MarkupCompile.cache
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF.g.resources
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF.Properties.Resources.resources
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF.csproj.GenerateResource.Cache
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\bin\Debug\EsaPrintersWPF.exe
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\bin\Debug\EsaPrintersWPF.pdb
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF.exe
+C:\Users\Ber7am\Documents\GitHub\EsaPrintersWPF\EsaPrintersWPF\obj\Debug\EsaPrintersWPF.pdb
